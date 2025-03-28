@@ -34,5 +34,5 @@ A modern Flutter application for managing contacts, scheduling events, and real-
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aryanbeni/contact-event-manager.git
-   cd contact-event-manager
+   git clone https://github.com/aryanbeni/make-contact-app.git
+   cd make-contact-app
